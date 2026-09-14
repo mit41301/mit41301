@@ -7,3 +7,9 @@ The **Twitter** feed are located [HERE](https://x.com/mit41301)
 
 The **YouTube** videos and shorts are [HERE](https://www.youtube.com/@mit41301)
 
+The **Hackster.io** projects are located [HERE](https://www.hackster.io/mit41301)
+
+**Hackaday** projects are located [HERE](https://hackaday.io/MIT41301)
+
+**Instructables** are located at [HERE](https://www.instructables.com/member/mit41301/instructables/)
+
