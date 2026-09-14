@@ -13,3 +13,5 @@ The **Hackster.io** projects are located [HERE](https://www.hackster.io/mit41301
 
 **Instructables** are located at [HERE](https://www.instructables.com/member/mit41301/instructables/)
 
+Barcode Printer using GW-BASIC and QBASIC located [HERE](https://github.com/mit41301/CODABAR-ITF-CODE39-UPC-EAN)
+
