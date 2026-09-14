@@ -15,3 +15,5 @@ The **Hackster.io** projects are located [HERE](https://www.hackster.io/mit41301
 
 Barcode Printer using GW-BASIC and QBASIC located [HERE](https://github.com/mit41301/CODABAR-ITF-CODE39-UPC-EAN)
 
+I2S output FM Tuner using [PIC10F200](https://github.com/mit41301/RDA7088-PIC10F200-I2S-Output) microcontroller
+
