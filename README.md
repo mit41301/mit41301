@@ -7,7 +7,7 @@ The **Hackster.io** projects are located [HERE](https://www.hackster.io/mit41301
 
 **Instructables** are located at [HERE](https://www.instructables.com/member/mit41301/instructables/)
 
-The items written on **ELEKTOR MAGAZINE** are [HERE](https://www.elektormagazine.com/labs/177403/mit41301)
+**ELEKTOR MAGAZINE** projects are [HERE](https://www.elektormagazine.com/labs/177403/mit41301)
 
 The **Instragram** posts are located [HERE](https://www.instagram.com/mit41301/)
 
