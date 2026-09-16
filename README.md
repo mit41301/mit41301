@@ -11,11 +11,14 @@ You can find MCS-51 microcontroller with BASIC-52
 **89C320** with BASIC-52 V1.3  
 **89C420** with BASIC-52 V1.3 + I2C with internal 1kB RAM  
 **P89V51RD2** with BASIC-52 V1.3 + I2C with internal RAM  
+**CH552** with BASIC-52 V1.3 + I2C with internal 1kB RAM, Internal Oscillator at 24 MHz  
+**CH558** with BASIC-52 V1.3 + I2C with internal 4kB RAM, Internal Oscillator at 24 MHz  
 
 ## SOFTCORE 8 BIT  
 **8080** Microprocessor  
 **8085** Microprocessor  
 **8051** Microcontroller  
+**MC8051** Softcore  
 **Z80** Micro  
 **Z180** Micro  
 **eZ80** Micro  
@@ -25,12 +28,17 @@ You can find MCS-51 microcontroller with BASIC-52
 **PIC10F202** RISC micro in Verilog  
 **MAX1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **CYC1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
-
+**EP4CE6E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
+**EP4CE10E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
+**MAX10** StepFpga running BASIC-52 + I2C with RAM and ROM implemented inside FPGA   
+**EP4CE22F256C6** DE0-Nano running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
+**EP4CE15F23** QMTECH running BASIC-52 + I2C with RAM and ROM implemented inside FPGA over Bluetooth Serial  
 
 ## SOFTCORE 32 BIT  
 **P8X32A** core in Verilog from Parallax Inc.  
 **Nios II** from Altera  
-
+**Nios II** Bemicro EP3C16F256C8  
+**Nios II** Bemicro EP4CE22F17C7  
 
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
