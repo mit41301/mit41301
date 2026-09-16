@@ -3,4 +3,8 @@ Another major thing in this repo is FM Tuners using simple control using Micro o
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
 
-<img width="1024" height="624" alt="CompositeEdgeInv" src="https://github.com/user-attachments/assets/d16358cb-0eeb-4166-984b-2e2a837f57db" />
+<img width="252" height="252" alt="jabcode" src="https://github.com/user-attachments/assets/fb9bcba2-010d-4ee7-820a-66349bc9fe9e" />
+
+<img width="888" height="663" alt="barcode" src="https://github.com/user-attachments/assets/286ebbbf-71b5-490c-8ab0-5d4d98188e22" />
+
+
