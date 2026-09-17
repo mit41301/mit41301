@@ -43,8 +43,8 @@ You can find MCS-51 microcontroller with BASIC-52
 
 ## CPLD Altera
 
-**EPM240** based simple board  
-**EPM2210** based Terasic MAX II Micro board  
+**EPM240T100C5** based simple CPLD board with external JTAG configuration  
+**EPM1270T144C5ES** based Terasic MAX II Micro board with inbuilt JTAG configuration  
 
 ## FM Tuner  
 **RDA5807FP** using FSM mode to control VOL+/VOL- CH+/- and POWER. No programming required. HW control  
