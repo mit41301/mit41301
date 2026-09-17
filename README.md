@@ -36,8 +36,8 @@ You can find MCS-51 microcontroller with BASIC-52
 **EP4CE15F23** QMTECH running BASIC-52 + I2C with RAM and ROM implemented inside FPGA over Bluetooth Serial  
 
 ## SOFTCORE 32 BIT  
-**P8X32A** core in Verilog from Parallax Inc.  
-**Nios II** from Altera  
+**P8X32A** core in Verilog from Parallax Inc. on DE0-NANO using EP4CE22F17C6  
+**Nios II** core on Altera EP4CE10E22C8 using Quartus II 18.1  
 **Nios II** Bemicro EP3C16F256C8  
 **Nios II** Bemicro EP4CE22F17C7  
 
@@ -60,11 +60,21 @@ You can find MCS-51 microcontroller with BASIC-52
 **RDA5807** controlled by ATTiny13  
 **RDA5807** controlled by ATTiny85  
 **RDA5807** controlled by Padauk PFS154 using SDCC  
+**TEA5767** NXP tuner controlled by Arduino and PIC  
+**Si4703** Silabs tuner controlled by Arduino  
 **CD9088** FM Tuner along with AM using TA7642  
+**Si4732** Tuner controlled by ESP-32 S3 Embed and Display module  
 
 ## AM Tuner  
 **TA7642** based AM Tuner with TO-92 package with just 3 terminals  
 **Si4732** based SOP16 package controlled by **ESP-32 WeMOS D1 R32**  
+
+## JTAG Intel  
+
+**PIC18F2550** based  
+**PIC18F14K50** based  
+**CH551G** based  
+**CH552G** based  
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
 
