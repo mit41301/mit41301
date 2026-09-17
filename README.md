@@ -19,7 +19,8 @@ You can find MCS-51 microcontroller with BASIC-52
 **8085** Microprocessor  
 **8051** Microcontroller  
 **MC8051** Softcore  
-**Z80** Micro  
+**Z80** Micro using Quartus II Version 9.1 Sp2 (8kB ROM + 8kB RAM)
+**Z80** Micro using Quartus II Version 18.1 (8kB ROM + 4kB RAM)
 **Z180** Micro  
 **eZ80** Micro  
 **6502** Micro  
@@ -49,7 +50,11 @@ You can find MCS-51 microcontroller with BASIC-52
 **RDA5807M** controlled by Arduino UNO  
 **RDA5807M** controlled by ESP-01 with IR remote and OLED  
 **RDA5807** controlled by PIC12F629 with OLED over I2C bus  
-
+**SIM800H** controlled by PIC12F683 using MicroC 
+**RDA5807** controlled by CH32V003
+**RDA5807** controlled by ATTiny13
+**RDA5807** controlled by ATTiny85
+**RDA5807** controlled by Padauk PFS154 using SDCC
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
 
