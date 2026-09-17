@@ -17,7 +17,7 @@
 **DS89C420** with BASIC-52 V1.3 + I2C with internal 1kB RAM or External RAM  
 **P89V51RD2** with BASIC-52 V1.3 + I2C with internal RAM  
 **CH552** with BASIC-52 V1.3 + I2C with internal 1kB RAM, Internal Oscillator at 24 MHz  
-**CH558** with BASIC-52 V1.3 + I2C with internal 4kB RAM, Internal Oscillator at 24 MHz  
+**CH558** with BASIC-52 V1.3 + I2C with internal 4kB RAM, Internal Oscillator at **48 MHz**  
 
 # SOFTCORE 8 BIT  
 **8080** Microprocessor  
