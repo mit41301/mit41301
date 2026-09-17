@@ -1,3 +1,11 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
+
 ## MCS-51 microcontroller with BASIC-52  
 **D87C51** with TinyBASIC (4kB ROM)  
 **AT89S51** with TinyBASIC (4kB FLASH)  
