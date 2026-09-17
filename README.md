@@ -8,8 +8,8 @@
 **D87C51** with BASIC-52 V1.3  
 **AT89S8252** with BASIC-52 V1.3  
 **P87C51FB** with 16kB OTP ROM running BASIC-52 + I2C  
-**AT89S8253** with BASIC-52 V1.3 + I2C  
-**AT89C55** with BASIC-52 V1.3 + I2C  
+**AT89S8253** with BASIC-52 V1.3 + I2C with 12kB internal FLASH memory   
+**AT89C55** with BASIC-52 V1.3 + I2C with 20kB internal FLASH memory  
 **STC89C52** with BASIC-52 V1.3  
 **W78E052D** with BASIC-52 V1.3  
 **89C320** with BASIC-52 V1.3  
