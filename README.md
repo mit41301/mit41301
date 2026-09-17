@@ -41,8 +41,13 @@ You can find MCS-51 microcontroller with BASIC-52
 **Nios II** Bemicro EP3C16F256C8  
 **Nios II** Bemicro EP4CE22F17C7  
 
-## FM Tuner  
+## CPLD Altera
 
+**EPM240** based simple board  
+**EPM2210** based Terasic MAX II Micro board  
+
+## FM Tuner  
+**RDA5807FP** using FSM mode to control VOL+/VOL- CH+/- and POWER. No programming required. HW control  
 **RDA5807SS** controlled by Raspberry Pi  
 **RDA5807** controlled by P8X32A using SPIN  
 **RDA5807** controlled by Raspberry Pi Pico  
@@ -55,6 +60,11 @@ You can find MCS-51 microcontroller with BASIC-52
 **RDA5807** controlled by ATTiny13  
 **RDA5807** controlled by ATTiny85  
 **RDA5807** controlled by Padauk PFS154 using SDCC  
+**CD9088** FM Tuner along with AM using TA7642  
+
+## AM Tuner  
+**TA7642** based AM Tuner with TO-92 package with just 3 terminals  
+**Si4732** based SOP16 package controlled by **ESP-32 WeMOS D1 R32**  
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
 
