@@ -1,7 +1,8 @@
 ## MCS-51 microcontroller with BASIC-52  
 **D87C51** with TinyBASIC (4kB ROM)  
 **AT89S51** with TinyBASIC (4kB FLASH)  
-**AT89S51** with BASIC-52 V1.2  
+**AT89S51** with BASIC-52 V1.2a  
+**P80C31** with BASIC-52 V1.2a  
 **AT89S52** with BASIC-52 V1.3  
 **D87C51** with BASIC-52 V1.3  
 **AT89S8252** with BASIC-52 V1.3  
