@@ -3,7 +3,6 @@
 
 **D87C51** with TinyBASIC (4kB ROM)  
 **AT89S51** with TinyBASIC (4kB FLASH)  
-**AT89S51** with BASIC-52 V1.2a  
 **P80C31** with BASIC-52 V1.2a from external EPROM   
 **P80C32** with BASIC-52 V1.3 from external EPROM   
 **AT89S52** with BASIC-52 V1.3  
@@ -14,7 +13,7 @@
 **AT89C55** with BASIC-52 V1.3 + I2C with 20kB internal FLASH memory  
 **STC89C52** with BASIC-52 V1.3  
 **W78E052D** with BASIC-52 V1.3  
-**89C320** with BASIC-52 V1.3  
+**89C320** with BASIC-52 V1.3 from external RAM and EPROM  
 **DS89C420** with BASIC-52 V1.3 + I2C with internal 1kB RAM or External RAM  
 **P89V51RD2** with BASIC-52 V1.3 + I2C with internal RAM  
 **CH552** with BASIC-52 V1.3 + I2C with internal 1kB RAM, Internal Oscillator at 24 MHz  
