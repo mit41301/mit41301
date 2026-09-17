@@ -19,8 +19,8 @@ You can find MCS-51 microcontroller with BASIC-52
 **8085** Microprocessor  
 **8051** Microcontroller  
 **MC8051** Softcore  
-**Z80** Micro using Quartus II Version 9.1 Sp2 (8kB ROM + 8kB RAM)
-**Z80** Micro using Quartus II Version 18.1 (8kB ROM + 4kB RAM)
+**Z80** Micro using Quartus II Version 9.1 Sp2 (8kB ROM + 8kB RAM)  
+**Z80** Micro using Quartus II Version 18.1 (8kB ROM + 4kB RAM)  
 **Z180** Micro  
 **eZ80** Micro  
 **6502** Micro  
