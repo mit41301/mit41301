@@ -13,7 +13,7 @@
 **STC89C52** with BASIC-52 V1.3  
 **W78E052D** with BASIC-52 V1.3  
 **89C320** with BASIC-52 V1.3  
-**89C420** with BASIC-52 V1.3 + I2C with internal 1kB RAM  
+**DS89C420** with BASIC-52 V1.3 + I2C with internal 1kB RAM or External RAM  
 **P89V51RD2** with BASIC-52 V1.3 + I2C with internal RAM  
 **CH552** with BASIC-52 V1.3 + I2C with internal 1kB RAM, Internal Oscillator at 24 MHz  
 **CH558** with BASIC-52 V1.3 + I2C with internal 4kB RAM, Internal Oscillator at 24 MHz  
