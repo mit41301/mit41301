@@ -64,6 +64,7 @@ You can find MCS-51 microcontroller with BASIC-52
 **Si4703** Silabs tuner controlled by Arduino  
 **CD9088** FM Tuner along with AM using TA7642  
 **Si4732** Tuner controlled by ESP-32 S3 Embed and Display module  
+**RDA5807M** controlled by CircuitPython
 
 ## AM Tuner  
 **TA7642** based AM Tuner with TO-92 package with just 3 terminals  
