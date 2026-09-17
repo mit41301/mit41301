@@ -40,12 +40,15 @@ You can find MCS-51 microcontroller with BASIC-52
 **Nios II** Bemicro EP3C16F256C8  
 **Nios II** Bemicro EP4CE22F17C7  
 
-## FM Tuner
+## FM Tuner  
 
-**RDA5807M** I2S output FM Tuner with NEC IR remote controlled by **PIC10F200**
-**RDA5807M** controlled by Arduino UNO
-**RDA5807M** controlled by ESP-01 with IR remote and OLED
-**RDA5807** controlled by PIC12F629 with OLED over I2C bus
+**RDA5807SS** controlled by Raspberry Pi  
+**RDA5807** controlled by P8X32A using SPIN  
+**RDA5807** controlled by Raspberry Pi Pico  
+**RDA5807M** I2S output FM Tuner with NEC IR remote controlled by **PIC10F200**  
+**RDA5807M** controlled by Arduino UNO  
+**RDA5807M** controlled by ESP-01 with IR remote and OLED  
+**RDA5807** controlled by PIC12F629 with OLED over I2C bus  
 
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
