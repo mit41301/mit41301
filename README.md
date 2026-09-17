@@ -2,10 +2,12 @@
 **D87C51** with TinyBASIC (4kB ROM)  
 **AT89S51** with TinyBASIC (4kB FLASH)  
 **AT89S51** with BASIC-52 V1.2a  
-**P80C31** with BASIC-52 V1.2a  
+**P80C31** with BASIC-52 V1.2a from external EPROM   
+**P80C32** with BASIC-52 V1.3 from external EPROM   
 **AT89S52** with BASIC-52 V1.3  
 **D87C51** with BASIC-52 V1.3  
 **AT89S8252** with BASIC-52 V1.3  
+**P87C51FB** with 16kB OTP ROM running BASIC-52 + I2C  
 **AT89S8253** with BASIC-52 V1.3 + I2C  
 **AT89C55** with BASIC-52 V1.3 + I2C  
 **STC89C52** with BASIC-52 V1.3  
