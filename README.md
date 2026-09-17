@@ -31,7 +31,7 @@ You can find MCS-51 microcontroller with BASIC-52
 **CYC1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **EP4CE6E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **EP4CE10E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
-**MAX10** StepFpga running BASIC-52 + I2C with RAM and ROM implemented inside FPGA   
+**10M08SAM153C8G** MAX10 FPGA running BASIC-52 + I2C with RAM and ROM implemented inside FPGA   
 **EP4CE22F256C6** DE0-Nano running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **EP4CE15F23** QMTECH running BASIC-52 + I2C with RAM and ROM implemented inside FPGA over Bluetooth Serial  
 
