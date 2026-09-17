@@ -59,7 +59,7 @@
 **RDA5807M** controlled by Arduino UNO  
 **RDA5807M** controlled by ESP-01 with IR remote and OLED  
 **RDA5807** controlled by PIC12F629 with OLED over I2C bus  
-**SIM800H** controlled by PIC12F683 using MicroC 
+**SIM800H** controlled by PIC12F683 using MicroC  
 **RDA5807** controlled by CH32V003  
 **RDA5807** controlled by ATTiny13  
 **RDA5807** controlled by ATTiny85  
