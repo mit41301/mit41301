@@ -1,6 +1,5 @@
  # MCS-51 microcontroller with BASIC-52  
 
-
 **D87C51** with TinyBASIC (4kB ROM)  
 **AT89S51** with TinyBASIC (4kB FLASH)  
 **P80C31** with BASIC-52 V1.2a from external EPROM   
@@ -20,6 +19,7 @@
 **CH558** with BASIC-52 V1.3 + I2C with internal 4kB RAM, Internal Oscillator at **48 MHz**  
 
 # SOFTCORE 8 BIT  
+
 **8080** Microprocessor  
 **8085** Microprocessor  
 **8051** Microcontroller  
@@ -41,6 +41,7 @@
 **EP4CE15F23** QMTECH running BASIC-52 + I2C with RAM and ROM implemented inside FPGA over Bluetooth Serial  
 
 # SOFTCORE 32 BIT  
+
 **P8X32A** core in Verilog from Parallax Inc. on DE0-NANO using EP4CE22F17C6  
 **Nios II** core on Altera EP4CE10E22C8 using Quartus II 18.1  
 **Nios II** Bemicro EP3C16F256C8  
@@ -52,6 +53,7 @@
 **EPM1270T144C5ES** based Terasic MAX II Micro board with inbuilt JTAG configuration  
 
 # FM Tuner  
+
 **RDA5807FP** using FSM mode to control VOL+/VOL- CH+/- and POWER. No programming required. HW control  
 **RDA5807SS** controlled by Raspberry Pi  
 **RDA5807** controlled by P8X32A using SPIN  
@@ -72,8 +74,10 @@
 **RDA5807M** controlled by CircuitPython
 
 # AM Tuner  
+
 **TA7642** based AM Tuner with TO-92 package with just 3 terminals  
 **Si4732** based SOP16 package controlled by **ESP-32 WeMOS D1 R32**  
+**dsPIC33AKMC102** based AM Radio
 
 # JTAG Intel  
 
