@@ -85,6 +85,7 @@
 **PIC18F14K50** based  
 **CH551G** based  
 **CH552G** based  
+**STM32** based  
 
 <img width="1024" height="624" alt="Composite" src="https://github.com/user-attachments/assets/36eccf11-4d5f-444d-a418-d6a70723f5b2" />
 
