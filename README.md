@@ -32,7 +32,7 @@
 **AVR** Micro in Verilog  
 **PIC10F200** RISC micro in Verilog  
 **PIC10F202** RISC micro in Verilog  
-**MAX1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
+**MAX1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  **10M08SAU169C8G**  
 **CYC1000** running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **EP4CE6E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
 **EP4CE10E22C8N** Cyclone IV running BASIC-52 + I2C with RAM and ROM implemented inside FPGA  
